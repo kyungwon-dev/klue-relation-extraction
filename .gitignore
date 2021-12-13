@@ -2,8 +2,8 @@
 /dataset
 
 # dataset Dictionary files
-!/code/dict_num_to_label.pkl
-!/code/dict_label_to_num.pkl
+!dict_num_to_label.pkl
+!dict_label_to_num.pkl
 
 # 기타 파일들
 .*
@@ -13,6 +13,6 @@
 stratified_k_fold_ensemble.py
 /code/wandb
 /code/results
-/code/prediction
+/prediction
 /code/best_model
 /code/__pycache__
